@@ -1,6 +1,4 @@
 #pragma once
-#ifndef INCLUDES_H
-#define INCLUDES_H
 
 #include <boost/thread.hpp>
 #include <boost/bind/bind.hpp>
@@ -15,4 +13,3 @@
 #include<iostream>
 #include<vector>
 
-#endif // INCLUDES_H
