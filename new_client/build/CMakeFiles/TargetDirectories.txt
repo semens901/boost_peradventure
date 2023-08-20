@@ -1,0 +1,3 @@
+/home/simon/cpp_projects/Peradventure_boost2/client/build/CMakeFiles/peradventure_client.dir
+/home/simon/cpp_projects/Peradventure_boost2/client/build/CMakeFiles/edit_cache.dir
+/home/simon/cpp_projects/Peradventure_boost2/client/build/CMakeFiles/rebuild_cache.dir
